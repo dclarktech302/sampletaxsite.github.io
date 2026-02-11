@@ -1,0 +1,24 @@
+# Site Configuration
+site:
+  title: "Clark's Professional Services"
+  tagline: "Tax Filing Made Simple"
+  full_title: "Clark's Professional Services - Smart Tax Filing Made Simple"
+  
+# Navigation
+nav:
+  logo_text: "Clark's Professional Services | Tax Filing Made Simple"
+  
+# Hero Section
+hero:
+  title: "File Your Taxes with Confidence"
+  subtitle: "Maximize your refund, minimize your stress. Our AI-powered tax filing service makes tax season simple, fast, and secure."
+  
+# Footer
+footer:
+  copyright: "2024 Clark's Professional Services"
+  
+# Contact Information
+contact:
+  email: "contact@clarksprofessional.com"
+  phone: "1-800-TAX-HELP"
+  address: "123 Business Ave, Suite 100, City, State 12345"
